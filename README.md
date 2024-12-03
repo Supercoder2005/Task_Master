@@ -1,4 +1,28 @@
+
 # Task Master
+
+Task Master is a simple, elegant, and user-friendly task management web application. It allows users to create, update, and delete tasks with ease, helping them stay organized and productive.
+
+## Features
+
+- Create new tasks
+- View all tasks in a beautifully designed table
+- Update existing tasks
+- Delete tasks
+- Responsive design for both desktop and mobile devices
+
+## Technologies Used
+
+- Python
+- Flask (Web Framework)
+- SQLite (Database)
+- HTML5
+- CSS3
+- Jinja2 (Templating Engine)
+
+## Setup and Installation
+
+1. Clone the repository:
 
 
 ## How To Run
