@@ -11,8 +11,11 @@
             "src": "/(.*)",
             "dest": "app.py"
         }
-    ]
+    ],
+    "outputDirectory": "."
 }
+
+
 
 
 
